@@ -23,7 +23,7 @@ repository               : "aldensova/aldensova.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/testpic.png"
+  avatar           : "files/profile.png"
   name             : "Your Sidebar Name"
   pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
