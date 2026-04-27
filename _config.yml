@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Toronto, ON"
+  employer         : "University of Toronto"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "aldensova@gmail.com" 
 
   # Academic websites
   academia         : # URL
